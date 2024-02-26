@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Mar 2023 11:24:42 at https://themezhub.net/skillup-live/skillup/home-6.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themezhub.net/skillup-live/skillup/home-6.html -O1 "D:\Coding\Template\skillup" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:26:19	Error: 	"Not Found" (404) at link https://themezhub.net/skillup-live/skillup/assets/img/paypal.png (from https://themezhub.net/skillup-live/skillup/checkout.html)
+11:26:19	Error: 	"Not Found" (404) at link https://themezhub.net/skillup-live/skillup/assets/img/strip.png (from https://themezhub.net/skillup-live/skillup/checkout.html)
+11:26:19	Error: 	"Not Found" (404) at link https://themezhub.net/skillup-live/skillup/assets/img/debit.png (from https://themezhub.net/skillup-live/skillup/checkout.html)
+11:26:21	Error: 	"Not Found" (404) at link https://themezhub.net/skillup-live/skillup/assets/css/plugins/fonts/slick.svg (from https://themezhub.net/skillup-live/skillup/assets/css/plugins/slick-theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 250 links scanned, 245 files written (22165311 bytes overall) [16997209 bytes received at 169972 bytes/sec], 7631130 bytes transferred using HTTP compression in 131 files, ratio 30%, 14.7 requests per connection
+(4 errors, 0 warnings, 0 messages)
